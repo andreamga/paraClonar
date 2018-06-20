@@ -1,3 +1,3 @@
 # paraClonar
 Repositorio de prueba para clonar
-Más información del repositorio
+Más información del repositorio...
